@@ -1,5 +1,0 @@
-This is create to check if I am able to pull data to local repository. 
-
-
-
-Adding this line to check if remote remote repository is updateable!
